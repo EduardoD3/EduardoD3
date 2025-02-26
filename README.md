@@ -2,9 +2,9 @@
 
 # 💻 Eduardo Leite  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardoleite-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eduardo-leite-22b039243/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@eduardo.galact-purple?style=flat-square&logo=instagram)](https://www.instagram.com/eduardo.galact/)  
-[![E-mail](https://img.shields.io/badge/Email-eduardoleite20022@gmail.com-red?style=flat-square&logo=gmail)](mailto:eduardoleite20022@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardoleite-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-leite-22b039243/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@eduardo.galact-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/eduardo.galact/)  
+[![E-mail](https://img.shields.io/badge/Email-eduardoleite20022@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:eduardoleite20022@gmail.com)  
 
 </div>
 
@@ -25,32 +25,32 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, especializado em **C#, .
 ## 🚀 Tecnologias e Ferramentas  
 
 ### **Linguagens**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
 ### **Frameworks e Bibliotecas**  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ### **Banco de Dados**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 ### **DevOps e Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
 </div>
 
@@ -110,6 +110,7 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, especializado em **C#, .
 📧 **E-mail:** [eduardoleite20022@gmail.com](mailto:eduardoleite20022@gmail.com)  
 💼 **LinkedIn:** [Eduardo Leite](https://www.linkedin.com/in/eduardo-leite-22b039243/)  
 📷 **Instagram:** [eduardo.galact](https://www.instagram.com/eduardo.galact/)  
+📱 **WhatsApp:** [Clique aqui para conversar](https://wa.me/5569992041145)  
 
 
 </div>
