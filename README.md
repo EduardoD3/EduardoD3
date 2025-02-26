@@ -111,6 +111,5 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, especializado em **C#, .
 💼 **LinkedIn:** [Eduardo Leite](https://www.linkedin.com/in/eduardo-leite-22b039243/)  
 📷 **Instagram:** [eduardo.galact](https://www.instagram.com/eduardo.galact/)  
 
-Se curtiu, deixa uma ⭐ no repositório! 😃🚀  
 
 </div>
