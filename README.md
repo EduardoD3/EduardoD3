@@ -85,7 +85,9 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, especializado em **C#, .
 - **Governança de TI:** Alinhamento estratégico  
 - **Governança de TI:** Fundamentos da gestão de portfólios  
 - **Governança de TI:** Gestão de serviços e segurança  
-- **Governança de TI:** Gestão de programas, projetos e produtos  
+- **Governança de TI:** Gestão de programas, projetos e produtos
+- Red Hat OpenShift Administration I: Operating a Production Cluster (DO180) - Ver. 4.14
+- Foundational C# with Microsoft
 
 </div>
 
