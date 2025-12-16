@@ -60,8 +60,6 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, especializado em **C#, .
 
 ## 🎓 Certificações  
 
-📌 **Alura**  
-
 - **C#:** Testes limpos com boas práticas  
 - **Formação:** Boas práticas em C#  
 - **GPT e Python:** Criando ferramentas com a API  
